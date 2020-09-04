@@ -1,0 +1,11 @@
+{
+    "palette": {
+        "Low": "#C48D3A",
+        "Medium": "#FFCA7C",
+        "MediumFaded": "#ffcb7cec",
+        "High": "#FFE4BB",
+        "HighAlternate": "#FEAB31",
+        "Background": "#030212",
+        "Middleground": "#72480A"
+    }
+}

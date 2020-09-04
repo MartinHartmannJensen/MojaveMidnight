@@ -1,0 +1,21 @@
+{
+    "name": "mojavemidnight",
+    "displayName": "mojavemidnight",
+    "description": "Screens of the midnight editors. Shining through the night~~",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MojaveMidnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MojaveMidnight-color-theme.json"
+            }
+        ]
+    }
+}
