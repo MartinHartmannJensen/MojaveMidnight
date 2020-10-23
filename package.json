@@ -1,6 +1,8 @@
 {
+    "publisher": "mhartj",
     "name": "mojavemidnight",
     "displayName": "mojavemidnight",
+    "repository": {"url": "https://github.com/MartinHartmannJensen/MojaveMidnight"},
     "description": "Screens of the midnight editors. Shining through the night~~",
     "version": "1.0.0",
     "engines": {
